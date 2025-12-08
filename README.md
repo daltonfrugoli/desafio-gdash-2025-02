@@ -558,7 +558,7 @@ Possíveis evoluções do projeto:
 
 ## 🎥 Vídeo Explicativo
 
-📹 **[Clique aqui para assistir ao vídeo demonstrativo](seu-link-youtube-aqui)**
+📹 **[Clique aqui para assistir ao vídeo demonstrativo](https://youtu.be/dAgNl4d0i8w)**
 
 **Duração**: ~5 minutos
 
